@@ -28,3 +28,6 @@ Sigue estos pasos para realizar operaciones con matrices en el programa:
    * ✖️ Multiplicar matrices
    * 📐 Calcular determinante o matriz transpuesta
 4. **Ver Resultados:** El programa calculará la operación instantáneamente y mostrará la matriz resultante en la cuadrícula inferior.
+
+<img width="1414" height="999" alt="interfaz" src="https://github.com/user-attachments/assets/2569e254-b67e-468b-9cee-5d5ae9e70b42" />
+
