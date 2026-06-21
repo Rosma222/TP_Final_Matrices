@@ -1,0 +1,11 @@
+# Ignorar ejecutables
+*.exe
+*.app
+*.lps
+
+# Ignorar archivos compilados
+lib/
+backup/
+*.ppu
+*.o
+*.or
